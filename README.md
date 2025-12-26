@@ -54,9 +54,9 @@ I’m an ECE student with a strong interest in **software development, data stru
 
 ## 📫 Connect With Me
 
-- 🐙 GitHub: [devansh934](https://github.com/devansh934)  
-- 💼 LinkedIn: *(add your LinkedIn link)*  
-- 📧 Email: *(add your professional email)*
+- 🐙 [GitHub](https://github.com/devansh934)  
+- 💼 [LinkedIn](#)  
+- 📧 [Email](#)
 
 ---
 
