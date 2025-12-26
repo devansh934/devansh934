@@ -47,9 +47,17 @@ I’m an ECE student with a strong interest in **software development, data stru
 
 ## 📊 GitHub Stats
 
+### 📈 Default Stats (commits + repos + contributions)
 ![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devansh934&show_icons=true&theme=tokyonight)
 
+### 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devansh934&layout=compact&theme=tokyonight)
+
+### 🔥 Optional: Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=devansh934&theme=tokyonight&hide_border=true)
+
+### 📅 Optional: Contribution Heatmap
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=devansh934&theme=react-dark&hide_border=true)
 
 ---
 
