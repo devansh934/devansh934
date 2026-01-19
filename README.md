@@ -37,13 +37,19 @@ I’m an ECE student with a strong interest in **software development, data stru
 
 ---
 
-## 📊 Coding Profiles
+## 📊 Coding Profile Stats
 
-- [CodeChef](https://www.codechef.com/users/acute_heart_99) – 4★ rated  
-- [LeetCode](https://leetcode.com/u/Devansh_Patel12/) – 500+ problems solved  
-- [GeeksforGeeks](https://www.geeksforgeeks.org/profile/devanshp5r4g) – 500+ problems solved  
+### 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Devansh_Patel12?theme=dark&font=Fira%20Code&ext=contest)
+
+### 🟢 GeeksforGeeks Stats
+![GFG Stats](https://gfgstatscard.vercel.app/devanshp5r4g)
+
+### 🟤 CodeChef Stats
+![CodeChef Stats](https://codechef-readme-stats.vercel.app/api?username=acute_heart_99&show_icons=true&theme=dark)
 
 ---
+
 
 ## 📊 GitHub Stats
 
