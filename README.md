@@ -45,11 +45,10 @@ I’m an ECE student with a strong interest in **software development, data stru
 ### 🟢 GeeksforGeeks Stats
 ![GFG Stats](https://gfgstatscard.vercel.app/devanshp5r4g)
 
-### 🟤 CodeChef Stats
-![CodeChef Stats](https://codechef-readme-stats.vercel.app/api?username=acute_heart_99&show_icons=true&theme=dark)
+### 🟤 CodeChef
+[![CodeChef](https://img.shields.io/badge/CodeChef-4★%20Rated-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/acute_heart_99)
 
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -58,7 +57,7 @@ I’m an ECE student with a strong interest in **software development, data stru
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh934&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=devansh934&theme=tokyonight" />
 </p>
 
 <p align="center">
