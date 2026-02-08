@@ -52,7 +52,7 @@ I’m an ECE student with a strong interest in **software development, data stru
 
 ## 📊 GitHub Stats
 
-### 📈Stats (commits + repos + contributions)
+### 📈Stats (commits + repos + contributions) 
 ![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devansh934&show_icons=true&theme=tokyonight)
 
 ---
