@@ -57,6 +57,19 @@ I’m an ECE student with a strong interest in **software development, data stru
 
 ---
 
+## ⚡ GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devansh934&theme=tokyonight&hide_border=true&border_radius=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devansh934&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh934&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
