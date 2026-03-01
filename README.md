@@ -57,6 +57,19 @@ I’m an ECE student with a strong interest in **software development, data stru
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 📊 3D Profile Views Counter
+
+![Profile Views](https://komarev.com/ghpvc/?username=dhruv-git-sys&color=blueviolet&style=for-the-badge)
+
+---
+
 
 ## 📫 Connect With Me
 
