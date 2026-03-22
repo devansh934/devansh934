@@ -46,7 +46,7 @@ I’m an ECE student with a strong interest in **software development, data stru
 ![GFG Stats](https://gfgstatscard.vercel.app/devanshp5r4g)
 
 ### 🟤 CodeChef
-[![CodeChef](https://img.shields.io/badge/CodeChef-4★%20Rated-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/acute_heart_99)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5★%20Rated-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/acute_heart_99)
 
 ---
 
